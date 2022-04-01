@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React, Nodejs**
 
-- 👯 I’m looking to collaborate on **Minor Project**
-
 - 🤝 I’m looking for help with **SIH- Smart India Hackathon**
 
 - 👨‍💻 Kindly visit my portfolio [https://shranjal6.github.io/real.github.io/](https://shranjal6.github.io/real.github.io/)
