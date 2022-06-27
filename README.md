@@ -5,15 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shranjal6&label=Profile%20views&color=0e75b6&style=flat" alt="shranjal6" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"
 
-- 🔭 I’ve done many projects [Payment Gateway Integration](https://shranjal6.github.io/tasksparks.github.io/index.html)
+- 🔭 Internship task- [Payment Gateway Integration](https://shranjal6.github.io/tasksparks.github.io/index.html)
 
-- 🌱 I’m currently learning **React, Nodejs**
-
-- 🤝 I’m looking for help with **SIH- Smart India Hackathon**
+- 🌱 I’m currently making projects on **MERN Stack**
 
 - 👨‍💻 Kindly visit my portfolio [https://shranjal6.github.io/real.github.io/](https://shranjal6.github.io/real.github.io/)
 
-- 💬 working as a **Intern**
+- 💬 working as a **Blockchain Developer Intern**
 
 - 📫 How to reach me **agrawalshranjal@gmail.com**
 
