@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently making projects on **MERN Stack**
 
-- 👨‍💻 Kindly visit my portfolio [https://shranjal6.github.io/real.github.io/](https://shranjal6.github.io/real.github.io/)
+- 👨‍💻 Kindly visit my portfolio [https://shranjalagrawal2.github.io/](https://shranjalagrawal2.github.io/)
 
 - 💬 working as a **Blockchain Developer Intern**
 
