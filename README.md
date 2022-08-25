@@ -33,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shranjal6&show_icons=true&locale=en&layout=compact" alt="shranjalagrawal2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shranjal6&show_icons=true&locale=en" alt="shranjal6" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shranjalagrawal2&show_icons=true&locale=en" alt="shranjalagrawal2" /></p>
 
 
