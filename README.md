@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shranjal6&label=Profile%20views&color=0e75b6&style=flat" alt="shranjal6" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"
 
-- 🔭 Internship task- [Payment Gateway Integration](https://shranjalagrawal2.github.io/tasksparks/)
+- 🔭 Internship task- [Smile Foundation Website](https://shranjalagrawal2.github.io/tasksparks/)
 
 - 🌱 I’m currently making projects on **MERN Stack**
 
